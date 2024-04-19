@@ -1,0 +1,40 @@
+.sign-up {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #ffdab9; /* Light orange */
+}
+
+.sign-up-container {
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sign-up-header {
+  margin-bottom: 20px;
+}
+
+.sign-up-header h1 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #ffa500;
+}
+
+.sign-up-header p {
+  font-size: 18px;
+  color: #000;
+}
+
+.sign-in-link {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
